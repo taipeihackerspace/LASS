@@ -3,8 +3,8 @@
 //Step 1: How you Connect WIFI....Basic things.
 //WIFI
 //System default wifi setting: SSID=LASS, PASS=LASS123456, WIFI_AUTH=LWIFI_WPA
-#define WIFI_SSID "LASS"         // REPLACE: your network SSID (name)
-#define WIFI_PASS "LASS123456"   // REPLACE: your network password (use for WPA, or use as key for WEP)
+#define WIFI_SSID "TPE-Hackerspace"         // REPLACE: your network SSID (name)
+#define WIFI_PASS "HN74874666"   // REPLACE: your network password (use for WPA, or use as key for WEP)
 #define WIFI_AUTH LWIFI_WPA   //Default:LWIFI_WPA // choose from LWIFI_OPEN, LWIFI_WPA, or LWIFI_WEP.
 //-----------------------------------------------------------
 
@@ -212,7 +212,6 @@ enum pinConfig{
 #define LED_STATE_OFF 0
 #define LED_STATE_READY 1
 #define LED_STATE_ERROR 2
-
 
 
 
